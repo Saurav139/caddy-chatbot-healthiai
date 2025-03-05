@@ -1,6 +1,6 @@
 # Caddy Chatbot HealthiAI
 
-This is a FastAPI-based chatbot for Health AI, inspired by the original [Caddy Chatbot](https://github.com/i-dot-ai/caddy-chatbot), which is open for development 
+This is a FastAPI-based chatbot for Health AI, which is open for development 
 ---
 
 ## Getting Started
