@@ -1,6 +1,6 @@
 # Caddy Chatbot HealthiAI
 
-This is a FastAPI-based chatbot, inspired by the original [Caddy Chatbot](https://github.com/i-dot-ai/caddy-chatbot), which is open for development 
+This is a FastAPI-based chatbot for Health AI, inspired by the original [Caddy Chatbot](https://github.com/i-dot-ai/caddy-chatbot), which is open for development 
 ---
 
 ## Getting Started
@@ -27,10 +27,7 @@ This is a FastAPI-based chatbot, inspired by the original [Caddy Chatbot](https:
 4. **Access the API Docs**
 
    Swagger UI: http://localhost:8080/docs
-5. ** Changes from the Original **
-   ```bash 
-   Model: amazon.titan-embed-text-v2:0 instead of the orginal cohere model
-   Region: us-east-2 instead of Eurpoean region
+
 
 
 
